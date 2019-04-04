@@ -1,0 +1,8 @@
+---
+name: TranslateAPI
+version: 1
+api: [2.0.0, 3.6.0]
+main: JLigght\TranslateAPI
+author: JLigght
+website: https://twitter.com/JLigght
+...
