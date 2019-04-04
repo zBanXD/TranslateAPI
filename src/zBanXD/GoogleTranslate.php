@@ -2,7 +2,7 @@
 
 namespace zBanXD;
 
-use TranslateAPI\Tokens\{
+use zBanXD\Tokens\{
     GoogleTokenGenerator,
     TokenProviderInterface
 };
