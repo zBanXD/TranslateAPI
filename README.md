@@ -2,7 +2,7 @@
 TranslateAPI é uma extensão que pode ser implementada em seu servidor dando auxilio a jogadores externos.
 
 # Get Start:
-Primeiramente importe a lib para seu projeto.
+Primeiramente baixe e instale a lib em seu projeto e a importe-a.
 ```js
 use zBanXD\TranslateAPI;
 ```
