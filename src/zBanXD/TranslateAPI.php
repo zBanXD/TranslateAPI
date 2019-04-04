@@ -1,8 +1,8 @@
-﻿<?php
+<?php
 
 namespace zBanXD;
 
-use TranslateAPI\GoogleTranslate;
+use zBanXD\GoogleTranslate;
 use pocketmine\plugin\PluginBase;
 use pocketmine\Server;
 
