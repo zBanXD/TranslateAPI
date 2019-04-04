@@ -1,5 +1,5 @@
 # TranslateAPI
-TranslateAPI é uma extensão que pode ser implementada em seu servidor dando auxilio a jogadores externos.
+TranslateAPI é uma extensão que pode ser implementada em seu servidor pocketmine-mp dando auxilio a jogadores externos.
 
 # Get Start:
 Primeiramente baixe e instale a lib em seu projeto e a importe-a.
